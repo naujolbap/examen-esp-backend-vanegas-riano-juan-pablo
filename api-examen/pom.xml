@@ -26,6 +26,9 @@
 			config-server
 		</module>
 		<module>
+			eureka-server
+		</module>
+		<module>
 			api-catalog
 		</module>
 		<module>
