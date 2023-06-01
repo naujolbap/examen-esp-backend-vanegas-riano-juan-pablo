@@ -29,6 +29,9 @@
 			eureka-server
 		</module>
 		<module>
+			api-gateway
+		</module>
+		<module>
 			api-catalog
 		</module>
 		<module>
